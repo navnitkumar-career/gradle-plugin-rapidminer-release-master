@@ -1,0 +1,9 @@
+build/
+bin/
+target/
+.gradle/
+.classpath
+.project
+.settings/
+config/checkstyle
+codenarc.conf
